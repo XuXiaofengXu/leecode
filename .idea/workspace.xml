@@ -1,43 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c7b25e40-9ff1-44fa-875b-d94fd161d510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/queue/no_206_反转链表$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/queue/no_206_反转链表$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/queue/no_206_反转链表.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/queue/no_621_任务调度器$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/queue/no_621_任务调度器.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/queue/no_622_设计循环队列$MyCircularQueue$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/queue/no_622_设计循环队列$MyCircularQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/queue/no_622_设计循环队列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/queue/no_933_最近的请求次数$RecentCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/queue/no_933_最近的请求次数.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_144_二叉树的前序遍历$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_144_二叉树的前序遍历$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_144_二叉树的前序遍历.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_145_二叉树的后序遍历$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_145_二叉树的后序遍历$Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_145_二叉树的后序遍历$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_145_二叉树的后序遍历.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_155_最小栈$MinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_155_最小栈.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_20_有效的括号.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_225_用队列实现栈$MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_225_用队列实现栈$MyStack1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_225_用队列实现栈.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_232_用栈实现队列$MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_232_用栈实现队列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_921_使括号有效的最少添加$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_921_使括号有效的最少添加.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_94_二叉树的中序遍历$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_94_二叉树的中序遍历$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/stack/no_94_二叉树的中序遍历.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leecode/unitTest.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,13 +150,16 @@
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="y" value="-1" />
     <option name="width" value="1602" />
     <option name="height" value="848" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="364EoRx7ZdqnrH4qiV1o28RWnqw" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -223,31 +195,23 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.unitTest.testFact">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/xf/workspace/leecode",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.unitTest">
     <configuration name="unitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leecode" />
       <option name="PACKAGE_NAME" value="" />
@@ -267,12 +231,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.unitTest.testFact" />
-        <item itemvalue="JUnit.unitTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -371,22 +329,6 @@
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -397,6 +339,15 @@
         <entry key="User">
           <value>
             <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
           </value>
         </entry>
       </map>
